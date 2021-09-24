@@ -19,12 +19,14 @@ export const localeOptions = [
 ];
 
 export const firebaseConfig = {
-  apiKey: 'AIzaSyBBksq-Asxq2M4Ot-75X19IyrEYJqNBPcg',
-  authDomain: 'gogo-react-login.firebaseapp.com',
+  apiKey: "AIzaSyC9Y78Vo8_fnzLLxauUtY5Z5BJU5h3k9kg",
+  authDomain: "spirandeli-store.firebaseapp.com",
+  projectId: "spirandeli-store",
+  storageBucket: "spirandeli-store.appspot.com",
+  messagingSenderId: "845117100672",
+  appId: "1:845117100672:web:ca6fb06280ebc6a9214c65",
+  measurementId: "G-XJMMMLH38Z",
   databaseURL: 'https://gogo-react-login.firebaseio.com',
-  projectId: 'gogo-react-login',
-  storageBucket: 'gogo-react-login.appspot.com',
-  messagingSenderId: '216495999563',
 };
 
 export const currentUser = {
